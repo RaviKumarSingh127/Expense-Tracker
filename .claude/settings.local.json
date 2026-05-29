@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(Test-Path \"c:\\\\Users\\\\jwala\\\\Desktop\\\\node js in vs code\\\\Smart Expense Tracker\\\\server\\\\.env\")",
+      "Bash(npx kill-port *)",
+      "Bash(lsof -ti:5000)",
+      "Bash(xargs kill -9)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
+    ]
+  }
+}
